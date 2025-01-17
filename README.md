@@ -29,6 +29,11 @@
 - [Мой Telegram](https://t.me/fdsaqwertyu1) — здесь можно задать вопрос или обсудить проект.
 - [Discord](https://discordapp.com/users/852845189726208060) — для профессионального общения.
 
+## Мои топ языков
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+
+---
+
 ## 📊 Моя статистика на GitHub:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=3ILou-ANANIMUS&show_icons=true&theme=radical)
 
