@@ -6,6 +6,13 @@
 - 🌐 **Vue.js и Tailwind CSS** — создаю адаптивные и красивые интерфейсы.
 - 🔐 **Кибербезопасность** — интересуюсь white hacking и безопасностью приложений.
 
+## 🛠️ Мой стэк технологий
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 🛠️ Чем я занимаюсь?
 - 🚀 Разрабатываю всякие системы и механики, без говно кода)!
 - 🎮 Создаю мини-игры для Telegram и другие увлекательные проекты.
