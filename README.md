@@ -13,7 +13,7 @@
 
 ## 🌍 Найди меня в интернете:
 - [Мой Telegram](https://t.me/fdsaqwertyu1) — здесь можно задать вопрос или обсудить проект.
-- [Discord](https://discord.com/channels/@me/852845189726208060) — для профессионального общения.
+- [Discord](https://discordapp.com/users/852845189726208060) — для профессионального общения.
 
 ## 📊 Моя статистика на GitHub:
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=3ILou-ANANIMUS&show_icons=true&theme=radical)
